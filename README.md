@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ken-hall
-- 👀 I’m interested in Living Systems Thinking (and support/hosting images for Drummer)
-- 🌱 I’m currently learning Drummer for oultining and blogging
-- 💞️ I’m looking to collaborate on Evolving Sustainable Sapiens
-- 📫 You can reach me @ kenhall88@gmail.com with email title beginning "drumRoll..."
+- 👀 I’m interested in Living Systems Design
+- 🌱 I’m currently learning Drummer, Rhino, HookPad & GarageBand
+- 💞️ I’m looking to collaborate on Sustainability
+- 📫 You can reach me @ kenhall88@gmail.com
 
 <!---
 ken-hall/ken-hall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
